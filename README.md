@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 -->
 <h1>Rubinzo Profile</h1>
 <h2>- 🔭 I’m currently working on: </h2>
+[Juego1-programacion](https://github.com/Rubinzo/Juego1-programacion)
 <ol>
-  <li>https://github.com/Rubinzo/Juego1-programacion </li>
+  <li>### [Juego1-programacion](https://github.com/Rubinzo/Juego1-programacion)</li>
   <li>
 https://github.com/Rubinzo/Ejercicios_Euler</li>
   <li>https://github.com/Rubinzo/ProyectoFail
