@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-<h1>- 🔭 I’m currently working on: </h1>
+<h1>Rubinzo Profile</h1>
+<h2>- 🔭 I’m currently working on: </h2>
 <ol>
   <li>https://github.com/Rubinzo/Juego1-programacion </li>
   <li>
