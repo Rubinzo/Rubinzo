@@ -15,6 +15,10 @@ https://github.com/Rubinzo/Ejercicios_Euler</li>
 </li>
 </ol>
 
+<h2>Coding in:</h2>
+<p>Java && Python</p>
+
+<!--
 - 🌱 I’m currently learning ... \n
 - 👯 I’m looking to collaborate on ... \n
 - 🤔 I’m looking for help with ... \n
