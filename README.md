@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+https://github.com/Rubinzo/Juego1-programacion
+https://github.com/Rubinzo/Ejercicios_Euler
+https://github.com/Rubinzo/ProyectoFail
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
